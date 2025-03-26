@@ -43,7 +43,7 @@ The project is divided into two parts:
 ## ⚙ Installation and Usage  
 
 ---
-## 🧑‍💻 Author
-This project was developed by [Yael Parra].
-Feel free to reach out for suggestions or collaborations! 🚀
+## 🧑‍💻 Author  
+This project was fully developed by - [Yael Parra](https://www.linkedin.com/in/yael-parra/) .  
+If you find this project helpful or have any suggestions, feel free to reach out!
 ---
