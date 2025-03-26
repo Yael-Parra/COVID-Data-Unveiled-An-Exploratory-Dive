@@ -41,9 +41,14 @@ The project is divided into two parts:
 ---
 
 ## ⚙ Installation and Usage  
-
+To update
+````bash
+to update
+````
 ---
 ## 🧑‍💻 Author  
+
 This project was fully developed by - [Yael Parra](https://www.linkedin.com/in/yael-parra/) .  
 If you find this project helpful or have any suggestions, feel free to reach out!
+
 ---
