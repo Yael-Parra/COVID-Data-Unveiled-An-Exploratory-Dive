@@ -43,9 +43,25 @@ This project focuses on **Exploratory Data Analysis (EDA)** of historical COVID-
 ---
 ## Folder Structure
 
-COVID-Data-Unveiled-An-Exploratory-Dive │ .gitignore │ COVID Data Analysis Report.pdf │ README.md │ requirements.txt │ ├───data │ ├───backup │ └───states.daily.csv │ ├───eda │ ├───analysis_data.ipynb │ ├───cleaning_data.ipynb │ └───clean_data_states_daily.csv │ ├───scrap_from_api │ └───extracting_data.py      
-        
-
+```bash
+📂 COVID-Data-Unveiled-An-Exploratory-Dive/  
+├── 📂 data/                
+│   ├── backup/       
+│   └── states.daily.csv  
+│  
+├── 📂 eda/                 
+│   ├── analysis_data.ipynb 
+│   ├── cleaning_data.ipynb  
+│   └── clean_data_states_daily.csv  
+│  
+├── 📂 scrap_from_api/    
+│   └── extracting_data.py 
+│  
+├── 📜 requirements.txt      
+├── 📜 README.md    
+├── 📜 COVID Data Analysis Report.pdf
+└── 📜 .gitignore     
+```
 ---
 
 ## Technologies Used
