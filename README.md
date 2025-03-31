@@ -1,6 +1,6 @@
 # COVID Data Unveiled: An Exploratory Dive
 
-##  Index
+##  📌 Index
 -  [About the Project](#-about-the-project)  
 -  [Main Features](#-main-features)  
 -  [Current Issues](#-current-issues)
@@ -63,24 +63,25 @@ This project focuses on **Exploratory Data Analysis (EDA)** of historical COVID-
 
 ---
 
-## Technologies Used
+## 🐍 Technologies Used
 
-- **Python**  
-- **Pandas** - Data manipulation and analysis  
-- **Matplotlib & Seaborn** - Data visualization and plotting  
-- **Requests** - Making API calls for data retrieval  
-- **Jupyter Notebook** - Interactive analysis and visualization  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**  
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) **Pandas** - Data manipulation and analysis  
+- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white) & ![Seaborn](https://img.shields.io/badge/-Seaborn-FF5851?logo=seaborn&logoColor=white) **Matplotlib & Seaborn** - Data visualization and plotting  
+- ![Requests](https://img.shields.io/badge/-Requests-FF4F00?logo=requests&logoColor=white) **Requests** - Making API calls for data retrieval  
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-FF3C00?logo=jupyter&logoColor=white) **Jupyter Notebook** - Interactive analysis and visualization
 
 ### Dependencies
-- `jupyter`  
-- `matplotlib`  
-- `notebook`  
-- `numpy`  
-- `pandas`  
-- `plotly`  
-- `scikit-learn`  
-- `scipy`  
-- `seaborn`
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-FF3C00?logo=jupyter&logoColor=white) `jupyter`  
+- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white) `matplotlib`  
+- ![Notebook](https://img.shields.io/badge/-Notebook-6DBF8D?logo=jupyter&logoColor=white) `notebook`  
+- ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) `numpy`  
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) `pandas`  
+- ![Plotly](https://img.shields.io/badge/-Plotly-3F4B8F?logo=plotly&logoColor=white) `plotly`  
+- ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) `scikit-learn`  
+- ![Scipy](https://img.shields.io/badge/-SciPy-8C150D?logo=scipy&logoColor=white) `scipy`  
+- ![Seaborn](https://img.shields.io/badge/-Seaborn-FF5851?logo=seaborn&logoColor=white) `seaborn`
+
 
 ---
 
