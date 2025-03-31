@@ -43,7 +43,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** of historical COVID-
 ---
 ## Folder Structure
 
-📂 COVID-Data-Unveiled-An-Exploratory-Dive/   
+COVID-Data-Unveiled-An-Exploratory-Dive/  
 ├── data/                
 │   ├── backup/       
 │   └── states.daily.csv  
@@ -60,7 +60,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** of historical COVID-
 ├── README.md    
 ├── COVID Data Analysis Report.pdf
 └── .gitignore           
-       
+        
 
 ---
 
