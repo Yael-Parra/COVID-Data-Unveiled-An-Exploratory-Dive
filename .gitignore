@@ -1,0 +1,6 @@
+.venv
+logs
+.python-verson
+main.py
+requirements.txt
+uv.lock

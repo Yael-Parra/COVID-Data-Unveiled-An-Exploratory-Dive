@@ -1,0 +1,12 @@
+{
+  "fetch_time": "2025-03-27T19:28:51.584993",
+  "endpoints": [
+    "us_daily",
+    "us_current",
+    "states_daily",
+    "states_current",
+    "states_info"
+  ],
+  "source": "The COVID Tracking Project",
+  "url": "https://api.covidtracking.com/v1"
+}
