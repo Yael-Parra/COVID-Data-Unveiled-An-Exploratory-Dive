@@ -63,7 +63,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** of historical COVID-
 
 ---
 
-## 🐍 Technologies Used
+## Technologies Used
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 
@@ -86,7 +86,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** of historical COVID-
 
 ---
 
-## ⚙ Installation and Usage  
+## Installation and Usage  
 
 ### 1️⃣ Clone the Repository  
 ```bash
