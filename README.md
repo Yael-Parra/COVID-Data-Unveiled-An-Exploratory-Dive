@@ -46,7 +46,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** of historical COVID-
 📂 COVID-Data-Unveiled-An-Exploratory-Dive/  
 ├── 📂 data/                
 │   ├── backup/       
-│   ├── states.daily.csv  
+│   └── states.daily.csv  
 │  
 ├── 📂 eda/                 
 │   ├── analysis_data.ipynb 
@@ -54,7 +54,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** of historical COVID-
 │   └── clean_data_states_daily.csv  
 │  
 ├── 📂 scrap_from_api/    
-│   ├── extracting_data.py 
+│   └── extracting_data.py 
 │  
 ├── 📜 requirements.txt      
 ├── 📜 README.md    
